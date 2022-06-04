@@ -2,6 +2,9 @@
 
 
 ### Twitch API
+#### twitch-python 
+* [https://pypi.org/project/twitch-python/}(https://pypi.org/project/twitch-python/)
+#### python-twitch-client
 * [https://python-twitch-client.readthedocs.io/en/latest/](https://python-twitch-client.readthedocs.io/en/latest/)
 * [https://github.com/tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client)
 
