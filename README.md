@@ -1,4 +1,4 @@
-# Twitch Streaming AI
+# Alt-Twitch Streaming AI
 
 ### 5 Manual Ways to Subtitle and Caption Videos Automatically Using Speech Recognition
 It's always good ideas to start manually to work out the concept and workflow manully before you developed software and tool to automate them. 
