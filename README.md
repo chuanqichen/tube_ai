@@ -2,6 +2,7 @@
 
 
 ### Twitch API
+* [https://python-twitch-client.readthedocs.io/en/latest/](https://python-twitch-client.readthedocs.io/en/latest/)
 * [https://github.com/tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client)
 
 ### References
