@@ -1,7 +1,13 @@
 # Twitch Streaming AI
 
+### Video Captioning 
+####  Sequence to Sequence -- Video to Text
+* [https://vsubhashini.github.io/s2vt.html](https://vsubhashini.github.io/s2vt.html)
+####  Automated Video Captioning using S2VT
+* [https://github.com/vijayvee/video-captioning'(https://github.com/vijayvee/video-captioning)
 
-### Twitch API
+
+### Twitch API to retrieve videos and meta data from Twitch 
 #### twitch-python 
 * [https://pypi.org/project/twitch-python/](https://pypi.org/project/twitch-python/)
 #### python-twitch-client
