@@ -1,9 +1,9 @@
 # Twitch Streaming AI
 
 ## Twitch API to retrieve videos and meta data from Twitch 
-#### twitch-python 
+#### twitch-python (Current and release recently)
 * [https://pypi.org/project/twitch-python/](https://pypi.org/project/twitch-python/)
-#### python-twitch-client
+#### python-twitch-client (rich functionalities, but no update for two years) 
 * [https://python-twitch-client.readthedocs.io/en/latest/](https://python-twitch-client.readthedocs.io/en/latest/)
 * [https://github.com/tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client)
 
