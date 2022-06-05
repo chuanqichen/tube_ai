@@ -1,5 +1,8 @@
 # Streaming AI (Twitch or Youtube)
 
+## Text-to-Speech generation
+### [TTS library](https://github.com/coqui-ai/TTS)
+
 ## API to retrieve videos and meta data from Youtube 
 #### [Pytube](https://pytube.io/)
 
