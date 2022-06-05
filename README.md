@@ -3,6 +3,13 @@
 ## Language transalation
 ### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
 
+## Remove orginal audio channel from MP4
+```
+import subprocess
+command = 'for file in *.mp4; do ffmpeg -i "$file" -c copy -an "noaudio_$file"; done'
+subprocess.call(command, shell=True)
+```
+
 ## Combine MP4 and MP3
 ```
 import ffmpeg
