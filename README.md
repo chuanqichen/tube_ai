@@ -35,6 +35,8 @@ subprocess.call(command, shell=True)
 
 ## Combine MP4 and MP3
 ```
+pip install ffmpeg-python
+
 import ffmpeg
 infile1 = ffmpeg.input(combine + "/" + name + ".mp4")
 infile2 = ffmpeg.input(combine + "/" + name + ".mp3")
