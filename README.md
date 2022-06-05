@@ -29,6 +29,11 @@ playsound("hello.mp3")
 ## Language transalation
 ### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
 ```
+pip install SpeechRecognition
+pip install googletrans
+pip install gTTs
+pip install gTTS-token
+
 import speech_recognition as sr
 r = sr.Recognizer()
 
