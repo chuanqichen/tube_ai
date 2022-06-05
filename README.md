@@ -2,11 +2,10 @@
 
 ## Install FFmpeg
 https://www.wikihow.com/Install-FFmpeg-on-Windows
-### Install ffmpeg-python
+### Install ffmpeg-python  [ffmpeg-python API Docs](https://kkroening.github.io/ffmpeg-python/)
 ```
 pip install ffmpeg-python
 ```
-### [ffmpeg-python API Docs](https://kkroening.github.io/ffmpeg-python/)
 
 ## Play sounds
 ```
