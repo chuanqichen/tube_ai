@@ -6,6 +6,9 @@ pip install youtube-data-api
 pip install --upgrade google-api-python-client
 pip install youtube_dl
 pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2
+
+python3.9/site-packages/pytube/cipher.py in My Case and replace this line ( On line number 30 ): var_regex = re.compile(r”^\w+\W”) 
+And Replace With var_regex = re.compile(r"^\$*\w+\W")  Now, Your error must be solved.
 ```
 
 
