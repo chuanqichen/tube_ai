@@ -2,6 +2,19 @@
 
 ## Language transalation
 ### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
+```
+import speech_recognition as sr
+r = sr.Recognizer()
+
+with sr.AudioFile("hello_world.wav") as source:
+    audio = r.record(source)
+try:
+    s = r.recognize_google(audio)
+    print("Text: "+s)
+except Exception as e:
+    print("Exception: "+str(e))
+```
+
 
 ## Remove orginal audio channel from MP4
 ```
