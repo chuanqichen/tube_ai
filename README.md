@@ -1,5 +1,15 @@
 # Streaming AI (Twitch or Youtube)
 
+## Play sounds
+```
+pip3 install gTTS playsound
+
+import gtts
+from playsound import playsound
+# play the audio file
+playsound("hello.mp3")
+```
+
 ## Language transalation
 ### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
 ```
