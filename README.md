@@ -32,6 +32,7 @@ ffmpeg.concat(infile1, infile2, v=1, a=1).output(final_save_path + "/" + name + 
 ```
 
 ## Text-to-Speech generation
+### [Convert text to speech in Python code](https://www.thepythoncode.com/article/convert-text-to-speech-in-python)
 ### [TTS library](https://github.com/coqui-ai/TTS)
 
 ## API to retrieve videos and meta data from Youtube 
