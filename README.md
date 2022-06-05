@@ -1,5 +1,13 @@
 # Streaming AI (Twitch or Youtube)
 
+## Combine MP4 and MP3
+```
+import ffmpeg
+infile1 = ffmpeg.input(combine + "/" + name + ".mp4")
+infile2 = ffmpeg.input(combine + "/" + name + ".mp3")
+ffmpeg.concat(infile1, infile2, v=1, a=1).output(final_save_path + "/" + name + ".mp4").run()
+```
+
 ## Text-to-Speech generation
 ### [TTS library](https://github.com/coqui-ai/TTS)
 
