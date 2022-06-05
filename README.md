@@ -1,5 +1,14 @@
 # Streaming AI (Twitch or Youtube)
 
+## Install youtube api
+```
+pip install youtube-data-api
+pip install --upgrade google-api-python-client
+pip install youtube_dl
+pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2
+```
+
+
 ## Install FFmpeg
 https://www.wikihow.com/Install-FFmpeg-on-Windows
 ### Install ffmpeg-python  [ffmpeg-python API Docs](https://kkroening.github.io/ffmpeg-python/)
