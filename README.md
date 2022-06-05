@@ -1,5 +1,8 @@
 # Streaming AI (Twitch or Youtube)
 
+## Language transalation
+### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
+
 ## Combine MP4 and MP3
 ```
 import ffmpeg
