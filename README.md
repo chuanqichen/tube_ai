@@ -1,5 +1,8 @@
 # Streaming AI (Twitch or Youtube)
 
+## Install FFmpeg
+https://www.wikihow.com/Install-FFmpeg-on-Windows
+
 ## Play sounds
 ```
 pip3 install gTTS playsound
