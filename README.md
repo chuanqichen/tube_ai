@@ -19,22 +19,13 @@ https://www.wikihow.com/Install-FFmpeg-on-Windows
 pip install ffmpeg-python
 ```
 
-## Play sounds
-```
-pip3 install gTTS playsound
-
-import gtts
-from playsound import playsound
-# play the audio file
-playsound("hello.mp3")
-```
 
 ## Language transalation
 ### [https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/](https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/)
 ```
 pip install SpeechRecognition
 pip install googletrans
-pip install gTTs
+pip3 install gTTS playsound
 pip install gTTS-token
 
 import speech_recognition as sr
@@ -47,6 +38,10 @@ try:
     print("Text: "+s)
 except Exception as e:
     print("Exception: "+str(e))
+
+from playsound import playsound
+# play the audio file
+playsound("hello.mp3")
 ```
 
 
