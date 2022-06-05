@@ -1,4 +1,8 @@
-# Twitch Streaming AI
+# Streaming AI (Twitch or Youtube)
+
+## API to retrieve videos and meta data from Youtube 
+#### [Pytube](https://pytube.io/)
+
 
 ## Twitch API to retrieve videos and meta data from Twitch 
 #### twitch-python (Current and release recently)
